@@ -3,14 +3,13 @@
 @tailwind utilities;
 
 .nav-item{
-    background-color: rgb(250, 252, 255);
-    color:black;
-    border: solid black 1px;
+    color:white;
+   /* border: solid black 1px;*/
     text-align: center;
-    border-top: 0px;
+    font-size: 2rem;
+    font-weight: bolder;
+    /*border-top: 0px;
     border-radius: 0px 0px .25rem .25rem;
     margin: 0;
-    padding: 0;
-    padding-top: 5px;
-    height: 100%;
+    padding: 0;*/
 }
